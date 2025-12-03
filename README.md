@@ -71,7 +71,8 @@ Me encanta aprender, construir, romper y volver a hacer todo mejor.
 ## 🐍 Mi serpiente cazando mis contribuciones
 
 <p align="center">
-  <img src="https://github.com/Stephanny9313/Stephanny9313/blob/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/Stephanny9313/Stephanny9313/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 
 ---
