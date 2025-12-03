@@ -53,14 +53,19 @@ Me gusta construir ideas desde cero, entender cómo se conectan las cosas y apre
 ---
 
 ## 📊 Mis estadísticas  
-*(Generadas con mi usuario **Stephanny9313**)*
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Stephanny9313&show_icons=true&include_all_commits=true&count_private=true&theme=radical" 
-       height="180">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanny9313&layout=compact&theme=radical" 
-       height="180">
+
+  <!-- Tarjeta de actividad -->
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Stephanny9313&show_icons=true&count_private=true&theme=darcula&hide_border=true"/>
+
+  <!-- Lenguajes más usados -->
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanny9313&layout=compact&theme=darcula&hide_border=true"/>
+
+  <!-- Streak Stats alternativo (versión activa) -->
+  <img height="160"
+       src="https://streak-stats.demolab.com?user=Stephanny9313&theme=darcula&hide_border=true"/>
 </p>
 
 
