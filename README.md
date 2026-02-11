@@ -7,14 +7,19 @@ Soy desarrolladora de software enfocada en construir aplicaciones que no solo se
 
 ---
 
-## ✨ Sobre mí
+## Sobre mí
 
-✨ Creo aplicaciones con diseño limpio y experiencia visual cuidada.
-📱 Desarrollo móvil con Flutter.
-🧠 Backend con Django, Spring Boot y PHP.
-🗂️ Trabajo con bases de datos SQL y NoSQL, estructurando información de forma eficiente y escalable.
-🚀 Me enfoco en la innovación constante y en el aprendizaje continuo de nuevos lenguajes y tecnologías, ampliando mi stack según las necesidades del proyecto.
----
+Desarrolladora de software enfocada en la construcción de aplicaciones funcionales, escalables y con experiencia de usuario.
+
+### Especialización
+- Desarrollo móvil con Flutter
+- Backend con Django, Spring Boot y PHP
+- Bases de datos SQL y NoSQL
+
+### Enfoque profesional
+- Arquitectura limpia y código mantenible
+- Modelado de datos eficiente y escalable
+- Innovación continua y aprendizaje constante de nuevas tecnologías
 
 ## 🚀 Tecnologías que uso
 
@@ -29,6 +34,7 @@ Soy desarrolladora de software enfocada en construir aplicaciones que no solo se
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB"/>&emsp;
 <img height="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL"/>&emsp;
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" />
 
 </p>
 
