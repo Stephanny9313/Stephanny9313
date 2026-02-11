@@ -9,13 +9,11 @@ Soy desarrolladora de software enfocada en construir aplicaciones que no solo se
 
 ## ✨ Sobre mí
 
-✨ Me gusta crear apps con diseño limpio y suave.  
-📱 Desarrollo móvil con Flutter.  
-🧠 Backend con Django, Spring Boot y PHP.  
-🗂️ Bases de datos SQL & NoSQL para guardar mundos enteros.  
-🎨 Aesthetic lover: colores suaves, UI limpia, orden visual.  
-🌱 En constante aprendizaje (y peleas amistosas con bugs).
-
+✨ Creo aplicaciones con diseño limpio y experiencia visual cuidada.
+📱 Desarrollo móvil con Flutter.
+🧠 Backend con Django, Spring Boot y PHP.
+🗂️ Trabajo con bases de datos SQL y NoSQL, estructurando información de forma eficiente y escalable.
+🚀 Me enfoco en la innovación constante y en el aprendizaje continuo de nuevos lenguajes y tecnologías, ampliando mi stack según las necesidades del proyecto.
 ---
 
 ## 🚀 Tecnologías que uso
