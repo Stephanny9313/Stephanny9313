@@ -2,10 +2,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="260px"/></p>
 
-Soy desarrolladora de software con pasión por las interfaces bonitas, el diseño aesthetic y las apps que realmente funcionan. Mezclo Flutter, Python, Java, PHP y lo que haga falta para crear proyectos con lógica sólida y una experiencia visual agradable.
-
-Me encanta aprender, construir, romper y volver a hacer todo mejor.
-
+Soy desarrolladora de software enfocada en construir aplicaciones que no solo se ven bien, sino que funcionan de forma sólida y eficiente. Trabajo con Flutter, Python, Java, PHP y el stack que el proyecto requiera, priorizando arquitectura limpia, mantenibilidad y rendimiento.
 <br clear="right"/>
 
 ---
@@ -53,17 +50,6 @@ Me encanta aprender, construir, romper y volver a hacer todo mejor.
 
 ---
 
-## 📊 Mis estadísticas
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Stephanny9313&show_icons=true&count_private=true&theme=darcula&hide_border=true&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanny9313&layout=compact&theme=darcula&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Stephanny9313&theme=darcula&hide_border=true"/>
-</p>
-
----
 
 ✨ **Gracias por visitar mi perfil** ✨
