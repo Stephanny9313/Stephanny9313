@@ -6,6 +6,8 @@ Soy desarrolladora de software con pasión por las interfaces bonitas, el diseñ
 
 Me encanta aprender, construir, romper y volver a hacer todo mejor.
 
+<br clear="right"/>
+
 ---
 
 ## ✨ Sobre mí
@@ -24,15 +26,14 @@ Me encanta aprender, construir, romper y volver a hacer todo mejor.
 <p align="left">
 
 <img height="40" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter"/>&emsp;
-<img height="40" src="https://kinsta.com/es/wp-content/uploads/sites/8/2018/05/PHP_Feature-Image-1024x536.jpg" alt="PHP"/>&emsp;
-<img height="30" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>&emsp;
-<img height="30" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>&emsp;
-<img height="30" src="https://img.shields.io/badge/-Git-red?logo=git&logoColor=white"/>&emsp;
-<img height="30" src="https://img.shields.io/badge/-Django-green?logo=django&logoColor=white"/>&emsp;
-<img height="30" src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white"/>&emsp;
-<img height="30" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"/>&emsp;
-<img height="34" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL"/>&emsp;
-<img height="30" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL"/>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"/>&emsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/>&emsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>&emsp;
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"/>&emsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/>&emsp;
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB"/>&emsp;
+<img height="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL"/>&emsp;
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL"/>
 
 </p>
 
@@ -42,11 +43,11 @@ Me encanta aprender, construir, romper y volver a hacer todo mejor.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bivian-cruz-109739211" target="_blank">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/>
   </a>
   &emsp;
   <a href="https://www.instagram.com/bivistephy/" target="_blank">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"/>
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="Instagram"/>
   </a>
 </p>
 
@@ -55,20 +56,14 @@ Me encanta aprender, construir, romper y volver a hacer todo mejor.
 ## 📊 Mis estadísticas
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Stephanny9313&show_icons=true&count_private=true&theme=darcula&hide_border=true&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanny9313&layout=compact&theme=darcula&hide_border=true&langs_count=8"/>
+</p>
 
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=Stephanny9313&show_icons=true&count_private=true&theme=darcula&hide_border=true"/>
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephanny9313&layout=compact&theme=darcula&hide_border=true"/>
-
-  <img height="160"
-       src="https://streak-stats.demolab.com?user=Stephanny9313&theme=darcula&hide_border=true"/>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=Stephanny9313&theme=darcula&hide_border=true"/>
 </p>
 
 ---
 
-
-
-
----
+✨ **Gracias por visitar mi perfil** ✨
